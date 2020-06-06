@@ -24,8 +24,8 @@ import java.util.concurrent.TimeUnit;
 
 public class Main {
 
-    static String sqsQueueUrl;
-    static String bucketName;
+    static String SQSQueueUrl;
+    static String BUCKETName;
 
     static String sampleImagesFolder = "input-images/";
     static boolean withIssues = false;
